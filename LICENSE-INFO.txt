@@ -1,0 +1,9 @@
+/*
+* dicom.js v@VERSION
+* https://github.com/davidvaccaro/dicom.js
+*
+* Copyright 2018 David Vaccaro
+* Released under the MIT license.
+* https://github.com/davidvaccaro/scorsh.js/license
+*
+*/
